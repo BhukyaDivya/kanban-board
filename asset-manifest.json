@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BhukyaDivya/kanban-board.git/static/css/main.7134c382.css",
+    "main.js": "/BhukyaDivya/kanban-board.git/static/js/main.8664c4f3.js",
+    "static/js/453.f0f88b0d.chunk.js": "/BhukyaDivya/kanban-board.git/static/js/453.f0f88b0d.chunk.js",
+    "index.html": "/BhukyaDivya/kanban-board.git/index.html",
+    "main.7134c382.css.map": "/BhukyaDivya/kanban-board.git/static/css/main.7134c382.css.map",
+    "main.8664c4f3.js.map": "/BhukyaDivya/kanban-board.git/static/js/main.8664c4f3.js.map",
+    "453.f0f88b0d.chunk.js.map": "/BhukyaDivya/kanban-board.git/static/js/453.f0f88b0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7134c382.css",
+    "static/js/main.8664c4f3.js"
+  ]
+}
